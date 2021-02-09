@@ -1,0 +1,4 @@
+How good is his speech?^n1
+Is he stupid as trump? Please rate^n2
+How smelly is he?^n3
+Please feed back more^t1

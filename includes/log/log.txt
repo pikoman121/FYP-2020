@@ -1,0 +1,1269 @@
+July 09, 2020 10:55:09 PM    STARTED > login_handler.php for acctype: UC
+July 09, 2020 10:55:09 PM    SUCCESS > user logged in: ng_weibin
+July 09, 2020 10:56:22 PM    SUCCESS > user logged out
+July 09, 2020 11:59:18 PM    SUCCESS > Found: Event 40
+July 09, 2020 11:59:18 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 09, 2020 11:59:21 PM    SUCCESS > SENT: Email lord.ngweibin@gmail.com
+July 09, 2020 11:59:21 PM    SUCCESS > Found: Event 40
+July 09, 2020 11:59:21 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 09, 2020 11:59:24 PM    SUCCESS > SENT: Email lord.ngweibin@hotmail.com
+July 09, 2020 11:59:24 PM    SUCCESS > Found: Event 41
+July 09, 2020 11:59:24 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 09, 2020 11:59:27 PM    SUCCESS > SENT: Email ng_weibin@yahoo.com.sg
+July 09, 2020 11:59:27 PM    SUCCESS > Found: Event 41
+July 09, 2020 11:59:27 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 09, 2020 11:59:29 PM    SUCCESS > SENT: Email lord.ngweibin@gmail.com
+July 10, 2020 12:20:28 AM    STARTED > login_handler.php for acctype: UC
+July 10, 2020 12:20:28 AM    SUCCESS > user logged in: ng_weibin
+July 10, 2020 12:20:52 AM    STARTED > new_event_handler.php for uc ng_weibin
+July 10, 2020 12:20:52 AM    SUCCESS > insertion into EVENTS table: ICT284 SONG 
+July 10, 2020 12:21:09 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 10, 2020 12:21:09 AM    SUCCESS > insertion into Users table: ICT284_SONG_p1 ng_weibin@hotmail.com
+July 10, 2020 12:21:09 AM    SUCCESS > insertion into Presentations table: ICT284 SONG  Presentation 1
+July 10, 2020 12:21:11 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 10, 2020 12:21:14 AM    SUCCESS > user logged out
+July 10, 2020 12:21:41 AM    STARTED > login_handler.php for acctype: REP
+July 10, 2020 12:21:41 AM    SUCCESS > user logged in: ICT284_SONG_p1
+July 10, 2020 12:22:02 AM    STARTED > upload_handler.php for PresentationID: 42
+July 10, 2020 12:22:02 AM    SUCCESS > Update query completed 
+July 10, 2020 12:22:31 AM    SUCCESS > The video is successfully converted to mp4
+July 10, 2020 12:22:31 AM    SUCCESS > Delete temporary File path success 
+July 10, 2020 12:22:31 AM    SUCESS > Presentation is successfully uploaded
+July 10, 2020 12:22:31 AM    Complete > Successfully completed 
+July 10, 2020 12:22:56 AM    STARTED > signup_handler.php for p_id: 42
+July 10, 2020 12:22:56 AM    SUCCESS > insertion into ATTENDEES table: lord.ngweibin@gmail.com
+July 10, 2020 12:22:59 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 10, 2020 12:29:35 AM    SUCCESS > Found: Event 42
+July 10, 2020 12:29:35 AM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 10, 2020 12:34:16 AM    STARTED > Cron_job for assessment matrix delivery
+July 10, 2020 12:34:16 AM    SUCCESS > Found: Event 42
+July 10, 2020 12:34:16 AM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 10, 2020 12:34:18 AM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 10, 2020 12:34:18 AM    COMPLETED > All Assessment matrix have been sent
+July 10, 2020 12:46:42 AM    STARTED > signup_handler.php for p_id: 42
+July 10, 2020 12:46:42 AM    SUCCESS > insertion into ATTENDEES table: ng_weibin@yahoo.com.sg
+July 10, 2020 12:46:44 AM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 10, 2020 12:47:18 AM    STARTED > signup_handler.php for p_id: 42
+July 10, 2020 12:47:18 AM    SUCCESS > insertion into ATTENDEES table: ng_weibin@hotmail.com
+July 10, 2020 12:47:20 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 10, 2020 12:47:44 AM    STARTED > Cron_job for assessment matrix delivery
+July 10, 2020 12:47:44 AM    SUCCESS > Found: Event 42
+July 10, 2020 12:47:44 AM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 10, 2020 12:47:47 AM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 10, 2020 12:47:47 AM    SUCCESS > Found: Event 42
+July 10, 2020 12:47:47 AM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 10, 2020 12:47:49 AM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 10, 2020 12:47:49 AM    SUCCESS > Found: Event 42
+July 10, 2020 12:47:49 AM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 10, 2020 12:47:52 AM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 10, 2020 12:47:52 AM    COMPLETED > All Assessment matrix have been sent
+July 10, 2020 09:31:21 PM    STARTED > login_handler.php for acctype: UC
+July 10, 2020 09:31:21 PM    SUCCESS > user logged in: ng_weibin
+July 10, 2020 09:32:04 PM    STARTED > edit_event_handler.php for uc ng_weibin
+July 10, 2020 09:32:04 PM    SUCCESS > Update Events table e_id: 29 (simple)
+July 10, 2020 09:32:12 PM    STARTED > edit_presentation_handler.php for uc ng_weibin
+July 10, 2020 09:32:12 PM    SUCCESS > Update Presentations table p_id: 42 (no mailer)
+July 10, 2020 09:32:12 PM    SUCCESS > Update Users table u_id: 87
+July 10, 2020 11:39:04 PM    SUCCESS > user logged out
+July 10, 2020 11:41:46 PM    STARTED > login_handler.php for acctype: UC
+July 10, 2020 11:41:46 PM    SUCCESS > user logged in: ng_weibin
+July 10, 2020 11:41:59 PM    SUCCESS > user logged out
+July 10, 2020 11:43:59 PM    STARTED > login_handler.php for acctype: UC
+July 10, 2020 11:43:59 PM    SUCCESS > user logged in: ng_weibin
+July 10, 2020 11:46:09 PM    STARTED > login_handler.php for acctype: UC
+July 10, 2020 11:46:09 PM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 12:37:12 AM    SUCCESS > user logged out
+July 11, 2020 12:37:57 AM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 12:37:57 AM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 12:45:21 AM    SUCCESS > user logged out
+July 11, 2020 12:46:07 AM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 12:46:07 AM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 12:46:21 AM    SUCCESS > user logged out
+July 11, 2020 08:32:22 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 08:32:22 PM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 08:32:38 PM    STARTED > edit_presentation_handler.php for uc ng_weibin
+July 11, 2020 08:32:38 PM    SUCCESS > Update Presentations table p_id: 42 (no mailer)
+July 11, 2020 08:32:38 PM    SUCCESS > Update Users table u_id: 87
+July 11, 2020 08:33:28 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 11, 2020 08:33:28 PM    SUCCESS > insertion into Users table: ICT284_SONG_p2 ng_weibin@yahoo.com.sg
+July 11, 2020 08:33:28 PM    SUCCESS > insertion into Presentations table: ICT284 SONG  Presentation 2
+July 11, 2020 08:33:31 PM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 11, 2020 08:44:23 PM    SUCCESS > user logged out
+July 11, 2020 08:44:36 PM    STARTED > login_handler.php for acctype: REP
+July 11, 2020 08:44:36 PM    FAILURE > invalid email or password
+July 11, 2020 08:44:49 PM    STARTED > login_handler.php for acctype: REP
+July 11, 2020 08:44:49 PM    SUCCESS > user logged in: ICT284_SONG_p2
+July 11, 2020 08:45:28 PM    STARTED > upload_handler.php for PresentationID: 43
+July 11, 2020 08:45:28 PM    SUCCESS > Update query completed 
+July 11, 2020 08:45:43 PM    SUCCESS > The video is successfully converted to mp4
+July 11, 2020 08:45:43 PM    SUCCESS > Delete temporary File path success 
+July 11, 2020 08:45:43 PM    SUCESS > Presentation is successfully uploaded
+July 11, 2020 08:45:43 PM    Complete > Successfully completed 
+July 11, 2020 08:52:56 PM    SUCCESS > user logged out
+July 11, 2020 08:53:18 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 08:53:18 PM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 08:53:32 PM    STARTED > edit_event_handler.php for uc ng_weibin
+July 11, 2020 08:53:32 PM    SUCCESS > Update Events table e_id: 29 (simple)
+July 11, 2020 08:55:02 PM    STARTED > Cron_job for assessment matrix delivery
+July 11, 2020 08:55:02 PM    COMPLETED > All Assessment matrix have been sent
+July 11, 2020 09:59:34 PM    SUCCESS > user logged out
+July 11, 2020 10:24:18 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 10:24:18 PM    SUCCESS > user logged in: ng_weibin
+July 11, 2020 10:54:45 PM    SUCCESS > user logged out
+July 11, 2020 10:55:50 PM    STARTED > register_handler.php for acctype: UC
+July 11, 2020 10:55:50 PM    SUCCESS > insertion into USERS table: Lord.ngweibin@hotmail.com
+July 11, 2020 10:55:52 PM    SUCCESS > mail delivered: Lord.ngweibin@hotmail.com
+July 11, 2020 10:56:23 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 10:56:23 PM    SUCCESS > user logged in: ng_weibin_1
+July 11, 2020 11:45:28 PM    SUCCESS > user logged out
+July 11, 2020 11:45:40 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 11:45:40 PM    FAILURE > invalid email or password
+July 11, 2020 11:45:44 PM    STARTED > login_handler.php for acctype: UC
+July 11, 2020 11:45:44 PM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 12:06:08 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:06:08 AM    FAILURE > invalid input
+July 12, 2020 12:07:28 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:07:28 AM    FAILURE > invalid input
+July 12, 2020 12:08:42 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:08:42 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:08:52 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:08:52 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:09:20 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:09:20 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:10:11 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:10:11 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:11:43 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:11:43 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:11:54 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:11:54 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:12:38 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:12:38 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:12:41 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:12:41 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:14:53 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:14:53 AM    FAILURE > Update of User table u_id: ng_weibin81 (simple)
+July 12, 2020 12:16:06 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:16:06 AM    FAILURE > invalid input
+July 12, 2020 12:16:17 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:16:17 AM    FAILURE > Update of User table u_id: 81 (simple)
+July 12, 2020 12:20:30 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:20:30 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Bin (simple)
+July 12, 2020 12:20:34 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:20:34 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Bin (simple)
+July 12, 2020 12:20:57 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:20:57 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin (simple)
+July 12, 2020 12:22:03 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:22:03 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin (simple)
+July 12, 2020 12:22:05 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:22:05 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin (simple)
+July 12, 2020 12:22:08 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:22:08 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin (simple)
+July 12, 2020 12:22:32 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:22:32 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng (simple)
+July 12, 2020 12:27:09 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:27:09 AM    FAILURE > invalid input
+July 12, 2020 12:27:49 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:27:49 AM    FAILURE > invalid input
+July 12, 2020 12:28:42 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:28:42 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_boy (simple)
+July 12, 2020 12:32:41 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:32:41 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:32:43 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:32:43 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:35:07 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:07 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:35:10 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:10 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:35:11 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:11 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:35:12 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:12 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:35:28 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:28 AM    FAILURE > invalid input
+July 12, 2020 12:35:38 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:35:38 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1 (simple)
+July 12, 2020 12:38:30 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:38:30 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:40:17 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:40:17 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:42:16 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:42:45 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:42:45 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:52:07 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:52:07 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:54:54 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:54:54 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:57:25 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:57:25 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 12:57:27 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 12:57:27 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:01:51 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:01:51 AM    FAILURE > invalid input
+July 12, 2020 01:03:09 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:03:09 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:03:12 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:03:12 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:06:00 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:06:00 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:06:04 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:06:04 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:06:12 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:06:12 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:06:13 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:06:13 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:19:52 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:19:52 AM    FAILURE > invalid input
+July 12, 2020 01:20:21 AM    SUCCESS > Delete from Presentations table p_id: 43 (simple)
+July 12, 2020 01:20:21 AM    SUCCESS > Delete from Users table u_id: 88
+July 12, 2020 01:24:31 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:24:31 AM    FAILURE > invalid input
+July 12, 2020 01:25:02 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:25:02 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ng, ng_weibin_1, 'mysql_error()' (simple)
+July 12, 2020 01:28:34 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:28:34 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin, ngweibin_bin, 'mysql_error()' (simple)
+July 12, 2020 01:29:28 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:29:28 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin, ngweibin_bin, 'mysql_error()' (simple)
+July 12, 2020 01:29:50 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:29:50 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin, ngweibin_bin, 'mysql_error()' (simple)
+July 12, 2020 01:30:16 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:30:16 AM    FAILURE > Update of User table u_id: 81, Lord.ngweibin@hotmail.com, Ngweibin, ngweibin_bin, 'mysql_error()' (simple)
+July 12, 2020 01:31:00 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:31:00 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:33:58 AM    SUCCESS > user logged out
+July 12, 2020 01:34:17 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:34:17 AM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 01:35:57 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:35:57 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:36:20 AM    SUCCESS > user logged out
+July 12, 2020 01:36:31 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:36:31 AM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 01:37:25 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:37:25 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:38:16 AM    SUCCESS > user logged out
+July 12, 2020 01:38:27 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:38:27 AM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 01:38:37 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:38:37 AM    FAILURE > invalid input
+July 12, 2020 01:39:06 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:39:06 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:39:24 AM    SUCCESS > user logged out
+July 12, 2020 01:39:37 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:39:37 AM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 01:41:31 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 12, 2020 01:41:31 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:41:43 AM    SUCCESS > user logged out
+July 12, 2020 01:41:55 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:41:55 AM    SUCCESS > user logged in: ngweibin_boy
+July 12, 2020 01:44:27 AM    STARTED > edit_uc_handler.php for  ngweibin_boy
+July 12, 2020 01:44:27 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:44:41 AM    SUCCESS > user logged out
+July 12, 2020 01:44:53 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:44:53 AM    SUCCESS > user logged in: john_doe
+July 12, 2020 01:45:57 AM    STARTED > edit_uc_handler.php for  john_doe
+July 12, 2020 01:45:57 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:45:59 AM    SUCCESS > user logged out
+July 12, 2020 01:46:17 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:46:17 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 01:46:26 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 12, 2020 01:46:26 AM    FAILURE > invalid input
+July 12, 2020 01:48:34 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 12, 2020 01:48:34 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:48:39 AM    SUCCESS > user logged out
+July 12, 2020 01:49:39 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:49:39 AM    FAILURE > invalid email or password
+July 12, 2020 01:49:42 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:49:42 AM    SUCCESS > user logged in: ngweibin_bin_1
+July 12, 2020 01:49:56 AM    STARTED > edit_uc_handler.php for  ngweibin_bin_1
+July 12, 2020 01:49:56 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:50:01 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:50:01 AM    SUCCESS > user logged in: penis_head
+July 12, 2020 01:58:21 AM    STARTED > edit_uc_handler.php for  penis_head
+July 12, 2020 01:58:21 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 01:58:28 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 01:58:28 AM    SUCCESS > user logged in: fuck_you
+July 12, 2020 01:59:30 AM    SUCCESS > user logged out
+July 12, 2020 02:00:21 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:00:21 AM    SUCCESS > user logged in: fuck_you
+July 12, 2020 02:01:23 AM    STARTED > edit_uc_handler.php for  fuck_you
+July 12, 2020 02:01:23 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 02:01:28 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:01:28 AM    FAILURE > invalid email or password
+July 12, 2020 02:01:35 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:01:35 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 02:18:02 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 12, 2020 02:18:02 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 02:18:08 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:18:08 AM    SUCCESS > user logged in: boy_fuckyou!!!!!!!
+July 12, 2020 02:19:36 AM    STARTED > edit_uc_handler.php for  boy_fuckyou!!!!!!!
+July 12, 2020 02:19:36 AM    SUCCESS > Update Users table e_id: 81 (simple)
+July 12, 2020 02:19:43 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:19:43 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 02:20:01 AM    SUCCESS > user logged out
+July 12, 2020 02:20:52 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:20:52 AM    FAILURE > invalid email or password
+July 12, 2020 02:20:57 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:20:57 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 02:21:10 AM    SUCCESS > user logged out
+July 12, 2020 02:21:58 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:21:58 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 02:22:21 AM    STARTED > Cron_job for assessment matrix delivery
+July 12, 2020 02:22:21 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:22:21 AM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 12, 2020 02:22:24 AM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 12, 2020 02:22:24 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:22:24 AM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 12, 2020 02:22:27 AM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 12, 2020 02:22:27 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:22:27 AM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 12, 2020 02:22:29 AM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 12, 2020 02:22:29 AM    COMPLETED > All Assessment matrix have been sent
+July 12, 2020 02:25:01 AM    STARTED > Cron_job for assessment matrix delivery
+July 12, 2020 02:25:01 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:25:01 AM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 12, 2020 02:25:03 AM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 12, 2020 02:25:03 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:25:03 AM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 12, 2020 02:25:06 AM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 12, 2020 02:25:06 AM    SUCCESS > Found: Event 42
+July 12, 2020 02:25:06 AM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 12, 2020 02:25:09 AM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 12, 2020 02:25:09 AM    COMPLETED > All Assessment matrix have been sent
+July 12, 2020 02:26:36 AM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 02:26:36 AM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 06:20:08 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 06:20:08 PM    FAILURE > invalid email or password
+July 12, 2020 06:20:13 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 06:20:13 PM    FAILURE > invalid email or password
+July 12, 2020 06:20:18 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 06:20:18 PM    FAILURE > invalid email or password
+July 12, 2020 06:20:36 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 06:20:36 PM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 06:21:03 PM    STARTED > new_presentation_handler.php for uc ngweibin_bin
+July 12, 2020 06:21:03 PM    SUCCESS > insertion into Users table: ICT284_SONG_p2 lord.ngweibin@gmail.com
+July 12, 2020 06:21:03 PM    SUCCESS > insertion into Presentations table: ICT284 SONG  Presentation 2
+July 12, 2020 06:21:08 PM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 12, 2020 06:21:15 PM    SUCCESS > user logged out
+July 12, 2020 06:21:57 PM    STARTED > login_handler.php for acctype: REP
+July 12, 2020 06:21:57 PM    SUCCESS > user logged in: ICT284_SONG_p2
+July 12, 2020 06:22:55 PM    STARTED > upload_handler.php for PresentationID: 44
+July 12, 2020 06:22:55 PM    SUCCESS > Update query completed 
+July 12, 2020 06:23:01 PM    SUCCESS > The video is successfully converted to mp4
+July 12, 2020 06:23:01 PM    SUCCESS > Delete temporary File path success 
+July 12, 2020 06:23:01 PM    SUCESS > Presentation is successfully uploaded
+July 12, 2020 06:23:01 PM    Complete > Successfully completed 
+July 12, 2020 06:23:26 PM    SUCCESS > user logged out
+July 12, 2020 06:23:40 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 06:23:40 PM    SUCCESS > user logged in: ngweibin_bin
+July 12, 2020 06:23:49 PM    SUCCESS > Delete from Presentations table p_id: 44 (simple)
+July 12, 2020 06:23:49 PM    SUCCESS > Delete from Users table u_id: 90
+July 12, 2020 06:24:07 PM    SUCCESS > user logged out
+July 12, 2020 06:26:36 PM    STARTED > login_handler.php for acctype: REP
+July 12, 2020 06:26:36 PM    FAILURE > invalid email or password
+July 12, 2020 06:26:47 PM    STARTED > login_handler.php for acctype: REP
+July 12, 2020 06:26:47 PM    FAILURE > invalid email or password
+July 12, 2020 11:51:02 PM    STARTED > register_handler.php for acctype: UC
+July 12, 2020 11:51:02 PM    SUCCESS > insertion into USERS table: Lord.ngweibin@gmail.com
+July 12, 2020 11:51:05 PM    SUCCESS > mail delivered: Lord.ngweibin@gmail.com
+July 12, 2020 11:51:29 PM    STARTED > login_handler.php for acctype: UC
+July 12, 2020 11:51:29 PM    SUCCESS > user logged in: ng_weibin
+July 12, 2020 11:52:07 PM    STARTED > new_event_handler.php for uc ng_weibin
+July 12, 2020 11:52:07 PM    SUCCESS > insertion into EVENTS table: ICT287 DONT KNOW AS TRUMP
+July 12, 2020 11:56:20 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 12, 2020 11:56:20 PM    SUCCESS > insertion into Users table: __p1 ng_weibin@hotmail.com
+July 12, 2020 11:56:20 PM    SUCCESS > insertion into Presentations table:   Presentation 1
+July 12, 2020 11:56:24 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 12, 2020 11:57:16 PM    SUCCESS > user logged out
+July 12, 2020 11:57:31 PM    STARTED > login_handler.php for acctype: REP
+July 12, 2020 11:57:31 PM    SUCCESS > user logged in: __p1
+July 13, 2020 12:00:16 AM    SUCCESS > user logged out
+July 13, 2020 12:00:33 AM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 12:00:33 AM    FAILURE > invalid email or password
+July 13, 2020 12:00:36 AM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 12:00:36 AM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 12:02:14 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 12:02:14 AM    SUCCESS > insertion into Users table: ICT287_DONTKNOWASTRUMP_p1 lord.ngweibin@gmail.com
+July 13, 2020 12:02:14 AM    SUCCESS > insertion into Presentations table: ICT287 DONT KNOW AS TRUMP Presentation 1
+July 13, 2020 12:02:17 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 13, 2020 12:03:19 AM    SUCCESS > user logged out
+July 13, 2020 12:03:58 AM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 12:03:58 AM    SUCCESS > user logged in: ICT287_DONTKNOWASTRUMP_p1
+July 13, 2020 12:04:34 AM    STARTED > upload_handler.php for PresentationID: 40
+July 13, 2020 12:04:34 AM    SUCCESS > Update query completed 
+July 13, 2020 12:04:40 AM    SUCCESS > The video is successfully converted to mp4
+July 13, 2020 12:04:40 AM    SUCCESS > Delete temporary File path success 
+July 13, 2020 12:04:40 AM    SUCESS > Presentation is successfully uploaded
+July 13, 2020 12:04:40 AM    Complete > Successfully completed 
+July 13, 2020 12:04:46 AM    SUCCESS > user logged out
+July 13, 2020 12:05:01 AM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 12:05:01 AM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 12:08:27 AM    STARTED > signup_handler.php for p_id: 40
+July 13, 2020 12:08:27 AM    SUCCESS > insertion into ATTENDEES table: ng_weibin@hotmail.com
+July 13, 2020 12:08:30 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 13, 2020 12:11:21 AM    STARTED > edit_presentation_handler.php for uc ng_weibin
+July 13, 2020 12:11:21 AM    SUCCESS > Update Presentations table p_id: 40 (no mailer)
+July 13, 2020 12:11:21 AM    SUCCESS > Update Users table u_id: 85
+July 13, 2020 12:22:58 AM    STARTED > feedback_form_handler.php for a_id 45, p_id 40
+July 13, 2020 12:22:58 AM    SUCCESS > Attendee match (true) a_id 45, p_id 40
+July 13, 2020 12:22:58 AM    SUCCESS > Insert into Results table a_id 45, p_id 40
+July 13, 2020 12:22:58 AM    SUCCESS > Update Results table r_id: 20
+July 13, 2020 12:26:48 AM    SUCCESS > user logged out
+July 13, 2020 12:27:03 AM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 12:27:03 AM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 12:33:12 AM    SUCCESS > user logged out
+July 13, 2020 12:33:36 AM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 12:33:36 AM    SUCCESS > user logged in: donald_duck
+July 13, 2020 01:01:17 AM    SUCCESS > user logged out
+July 13, 2020 01:22:21 AM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 01:22:21 AM    SUCCESS > user logged in: ICT287_DONTKNOWASTRUMP_p1
+July 13, 2020 01:31:47 AM    STARTED > signup_handler.php for p_id: 40
+July 13, 2020 01:31:47 AM    SUCCESS > insertion into ATTENDEES table: ng_weibin@yahoo.com.sg
+July 13, 2020 01:31:50 AM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 13, 2020 01:35:40 AM    STARTED > feedback_form_handler.php for a_id 46, p_id 40
+July 13, 2020 01:35:40 AM    SUCCESS > Attendee match (true) a_id 46, p_id 40
+July 13, 2020 01:35:40 AM    SUCCESS > Insert into Results table a_id 46, p_id 40
+July 13, 2020 01:35:40 AM    SUCCESS > Update Results table r_id: 21
+July 13, 2020 05:25:26 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 05:25:26 PM    FAILURE > invalid email or password
+July 13, 2020 05:25:33 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 05:25:33 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 05:27:43 PM    STARTED > new_event_handler.php for uc ng_weibin
+July 13, 2020 05:27:43 PM    SUCCESS > insertion into EVENTS table: ICT456 MARVEL AVENGERS
+July 13, 2020 05:28:39 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 05:28:39 PM    SUCCESS > insertion into Users table: ICT456_MARVELAVENGERS_p1 ng_weibin@hotmail.com
+July 13, 2020 05:28:39 PM    SUCCESS > insertion into Presentations table: ICT456 MARVEL AVENGERS Presentation 1
+July 13, 2020 05:28:42 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 13, 2020 05:29:02 PM    SUCCESS > user logged out
+July 13, 2020 05:29:12 PM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 05:29:12 PM    SUCCESS > user logged in: ICT456_MARVELAVENGERS_p1
+July 13, 2020 05:29:46 PM    STARTED > upload_handler.php for PresentationID: 41
+July 13, 2020 05:29:46 PM    SUCCESS > Update query completed 
+July 13, 2020 05:30:01 PM    SUCCESS > The video is successfully converted to mp4
+July 13, 2020 05:30:01 PM    SUCCESS > Delete temporary File path success 
+July 13, 2020 05:30:01 PM    SUCESS > Presentation is successfully uploaded
+July 13, 2020 05:30:01 PM    Complete > Successfully completed 
+July 13, 2020 05:30:08 PM    SUCCESS > user logged out
+July 13, 2020 05:30:25 PM    STARTED > signup_handler.php for p_id: 41
+July 13, 2020 05:30:25 PM    SUCCESS > insertion into ATTENDEES table: lord.ngweibin@gmail.com
+July 13, 2020 05:30:28 PM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 13, 2020 05:30:43 PM    STARTED > signup_handler.php for p_id: 41
+July 13, 2020 05:30:43 PM    SUCCESS > insertion into ATTENDEES table: lord.ngweibin@hotmail.com
+July 13, 2020 05:30:45 PM    SUCCESS > mail delivered: lord.ngweibin@hotmail.com
+July 13, 2020 05:33:19 PM    STARTED > signup_handler.php for p_id: 41
+July 13, 2020 05:33:19 PM    SUCCESS > insertion into ATTENDEES table: ng_weibin@yahoo.com.sg
+July 13, 2020 05:33:22 PM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 13, 2020 05:33:48 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:33:48 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:33:48 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:33:51 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:33:51 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:33:51 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:33:53 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:33:53 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:33:53 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:33:56 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:33:56 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:33:56 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:33:59 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:33:59 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:33:59 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:34:01 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:34:01 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:34:01 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:34:04 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:34:04 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 05:34:43 PM    STARTED > feedback_form_handler.php for a_id 47, p_id 41
+July 13, 2020 05:34:43 PM    SUCCESS > Attendee match (true) a_id 47, p_id 41
+July 13, 2020 05:34:43 PM    SUCCESS > Insert into Results table a_id 47, p_id 41
+July 13, 2020 05:34:43 PM    SUCCESS > Update Results table r_id: 22
+July 13, 2020 05:35:17 PM    STARTED > feedback_form_handler.php for a_id 49, p_id 41
+July 13, 2020 05:35:17 PM    SUCCESS > Attendee match (true) a_id 49, p_id 41
+July 13, 2020 05:35:17 PM    SUCCESS > Insert into Results table a_id 49, p_id 41
+July 13, 2020 05:35:17 PM    SUCCESS > Update Results table r_id: 23
+July 13, 2020 05:36:01 PM    STARTED > feedback_form_handler.php for a_id 48, p_id 41
+July 13, 2020 05:36:01 PM    SUCCESS > Attendee match (true) a_id 48, p_id 41
+July 13, 2020 05:36:01 PM    SUCCESS > Insert into Results table a_id 48, p_id 41
+July 13, 2020 05:36:01 PM    SUCCESS > Update Results table r_id: 24
+July 13, 2020 05:44:03 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:44:03 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:44:03 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:44:06 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:44:06 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:44:06 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:44:09 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:44:09 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:44:09 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:44:11 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:44:11 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:44:11 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:44:14 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:44:14 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:44:14 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:44:16 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:44:16 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:44:16 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:44:19 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:44:19 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 05:45:28 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:45:28 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:45:28 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:45:31 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:45:31 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:45:31 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:45:33 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:45:33 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:45:33 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:45:36 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:45:36 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:45:36 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:45:39 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:45:39 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:45:39 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:45:41 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:45:41 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:45:41 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:46:09 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:46:09 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:46:09 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:46:11 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:46:11 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:46:11 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:46:14 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:46:14 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:46:14 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:46:17 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:46:17 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:46:17 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:46:19 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:46:19 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:46:19 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:46:22 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:46:22 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:46:22 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:47:49 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:47:49 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:47:49 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:47:51 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:47:51 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:47:51 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:47:54 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:47:54 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:47:54 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:47:56 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:47:56 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:47:56 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:47:59 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:47:59 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:47:59 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:48:01 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:48:01 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:48:01 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:48:04 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:48:04 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 05:58:21 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 05:58:21 PM    SUCCESS > Found: Event 7
+July 13, 2020 05:58:21 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 05:58:23 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 05:58:23 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:58:23 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 05:58:26 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 05:58:26 PM    SUCCESS > Found: Event 40
+July 13, 2020 05:58:26 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:58:29 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 05:58:29 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:58:29 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 05:58:31 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 05:58:31 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:58:31 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 05:58:34 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 05:58:34 PM    SUCCESS > Found: Event 41
+July 13, 2020 05:58:34 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 05:58:36 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:02:05 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 06:02:05 PM    SUCCESS > Found: Event 7
+July 13, 2020 06:02:05 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 06:02:08 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 06:02:08 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:02:08 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 06:02:11 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 06:02:11 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:02:11 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:02:15 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:02:15 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:02:15 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 06:02:18 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 06:02:18 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:02:18 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 06:02:37 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 06:02:37 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:02:37 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:02:40 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:02:40 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 06:05:41 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 06:05:41 PM    SUCCESS > Found: Event 7
+July 13, 2020 06:05:41 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 06:05:43 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 06:05:43 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:05:43 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 06:05:46 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 06:05:46 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:05:46 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:05:49 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:05:49 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:05:49 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 06:05:51 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 06:05:51 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:05:51 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 06:05:54 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 06:05:54 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:05:54 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:05:57 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:05:57 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 06:07:49 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 06:07:50 PM    SUCCESS > Found: Event 7
+July 13, 2020 06:07:50 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 06:07:52 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 06:07:52 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:07:52 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 06:07:55 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 06:07:55 PM    SUCCESS > Found: Event 40
+July 13, 2020 06:07:55 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:07:57 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:07:57 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:07:57 PM    SUCCESS > Found: Email lord.ngweibin@gmail.com
+July 13, 2020 06:08:00 PM    SUCCESS > Email Sent to: lord.ngweibin@gmail.com
+July 13, 2020 06:08:00 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:08:00 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 13, 2020 06:08:03 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 13, 2020 06:08:03 PM    SUCCESS > Found: Event 41
+July 13, 2020 06:08:03 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 06:08:05 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 06:08:05 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 06:15:29 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 06:15:29 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 07:24:52 PM    SUCCESS > Delete from Presentations table p_id: 40 (simple)
+July 13, 2020 07:24:52 PM    SUCCESS > Delete from Users table u_id: 85
+July 13, 2020 07:25:06 PM    STARTED > delete_event_handler.php for uc ng_weibin
+July 13, 2020 07:25:06 PM    SUCCESS > Delete from Presentations table p_id: 41
+July 13, 2020 07:25:06 PM    SUCCESS > Delete from Users table u_id: 86
+July 13, 2020 07:25:06 PM    SUCCESS > Delete from Events table e_id: 28
+July 13, 2020 07:31:33 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 07:31:33 PM    SUCCESS > insertion into Users table: ICT287_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 13, 2020 07:31:33 PM    SUCCESS > insertion into Presentations table: ICT287 DONT KNOW AS TRUMP Presentation 1
+July 13, 2020 07:31:35 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 13, 2020 07:32:14 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 07:32:14 PM    SUCCESS > insertion into Users table: ICT287_DONTKNOWASTRUMP_p2 ng_weibin@yahoo.com.sg
+July 13, 2020 07:32:14 PM    SUCCESS > insertion into Presentations table: ICT287 DONT KNOW AS TRUMP Presentation 2
+July 13, 2020 07:32:17 PM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 13, 2020 07:32:24 PM    SUCCESS > user logged out
+July 13, 2020 07:32:38 PM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 07:32:38 PM    SUCCESS > user logged in: ICT287_DONTKNOWASTRUMP_p1
+July 13, 2020 07:32:47 PM    STARTED > upload_handler.php for PresentationID: 42
+July 13, 2020 07:32:47 PM    SUCCESS > Update query completed 
+July 13, 2020 07:32:53 PM    SUCCESS > The video is successfully converted to mp4
+July 13, 2020 07:32:53 PM    SUCCESS > Delete temporary File path success 
+July 13, 2020 07:32:53 PM    SUCESS > Presentation is successfully uploaded
+July 13, 2020 07:32:53 PM    Complete > Successfully completed 
+July 13, 2020 07:32:56 PM    SUCCESS > user logged out
+July 13, 2020 07:33:20 PM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 07:33:20 PM    SUCCESS > user logged in: ICT287_DONTKNOWASTRUMP_p2
+July 13, 2020 07:33:30 PM    STARTED > upload_handler.php for PresentationID: 43
+July 13, 2020 07:33:30 PM    SUCCESS > Update query completed 
+July 13, 2020 07:34:00 PM    SUCCESS > The video is successfully converted to mp4
+July 13, 2020 07:34:00 PM    SUCCESS > Delete temporary File path success 
+July 13, 2020 07:34:00 PM    SUCESS > Presentation is successfully uploaded
+July 13, 2020 07:34:00 PM    Complete > Successfully completed 
+July 13, 2020 07:34:03 PM    SUCCESS > user logged out
+July 13, 2020 07:34:16 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 07:34:16 PM    FAILURE > invalid email or password
+July 13, 2020 07:34:19 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 07:34:19 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 07:34:42 PM    STARTED > delete_event_handler.php for uc ng_weibin
+July 13, 2020 07:34:42 PM    SUCCESS > Delete from Presentations table p_id: 42
+July 13, 2020 07:34:42 PM    SUCCESS > Delete from Users table u_id: 87
+July 13, 2020 07:34:42 PM    SUCCESS > Delete from Events table e_id: 27
+July 13, 2020 08:34:59 PM    SUCCESS > user logged out
+July 13, 2020 09:27:01 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 09:27:01 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 09:27:30 PM    STARTED > new_event_handler.php for uc ng_weibin
+July 13, 2020 09:27:30 PM    SUCCESS > insertion into EVENTS table: ICT287 YAHOO
+July 13, 2020 09:29:29 PM    STARTED > form_builder_handler.php for uc ng_weibin
+July 13, 2020 09:29:29 PM    SUCCESS > Insert into Assessments table a_title: Wei Bin Matrix
+July 13, 2020 09:34:40 PM    STARTED > form_builder_handler.php for uc ng_weibin
+July 13, 2020 09:34:40 PM    SUCCESS > Insert into Assessments table a_title: Wei Bin Matrix
+July 13, 2020 09:35:19 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 09:35:19 PM    SUCCESS > insertion into Users table: __p2 lord.ngweibin@gmail.com
+July 13, 2020 09:35:19 PM    SUCCESS > insertion into Presentations table:   Presentation 2
+July 13, 2020 09:35:22 PM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 13, 2020 09:35:51 PM    SUCCESS > user logged out
+July 13, 2020 09:36:04 PM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 09:36:04 PM    SUCCESS > user logged in: __p2
+July 13, 2020 09:36:09 PM    SUCCESS > user logged out
+July 13, 2020 09:37:23 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 09:37:23 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 09:41:20 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 13, 2020 09:41:20 PM    SUCCESS > insertion into Users table: ICT287_YAHOO_p1 ng_weibin@hotmail.com
+July 13, 2020 09:41:20 PM    SUCCESS > insertion into Presentations table: ICT287 YAHOO Presentation 1
+July 13, 2020 09:41:22 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 13, 2020 09:41:36 PM    SUCCESS > user logged out
+July 13, 2020 09:41:46 PM    STARTED > login_handler.php for acctype: REP
+July 13, 2020 09:41:46 PM    SUCCESS > user logged in: ICT287_YAHOO_p1
+July 13, 2020 09:43:11 PM    STARTED > upload_handler.php for PresentationID: 45
+July 13, 2020 09:43:11 PM    SUCCESS > Update query completed 
+July 13, 2020 09:43:16 PM    SUCCESS > The video is successfully converted to mp4
+July 13, 2020 09:43:16 PM    SUCCESS > Delete temporary File path success 
+July 13, 2020 09:43:16 PM    SUCESS > Presentation is successfully uploaded
+July 13, 2020 09:43:16 PM    Complete > Successfully completed 
+July 13, 2020 09:43:31 PM    SUCCESS > user logged out
+July 13, 2020 09:43:43 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 09:43:43 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 09:45:42 PM    SUCCESS > user logged out
+July 13, 2020 09:46:21 PM    STARTED > signup_handler.php for p_id: 45
+July 13, 2020 09:46:21 PM    FAILURE > invalid input / record already exists : ng_weibin@hotmail.com
+July 13, 2020 09:46:53 PM    STARTED > signup_handler.php for p_id: 45
+July 13, 2020 09:46:53 PM    SUCCESS > insertion into ATTENDEES table: ng_weibin@hotmail.com
+July 13, 2020 09:46:55 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 13, 2020 09:47:07 PM    STARTED > signup_handler.php for p_id: 45
+July 13, 2020 09:47:07 PM    SUCCESS > insertion into ATTENDEES table: ng_weibin@yahoo.com.sg
+July 13, 2020 09:47:09 PM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 13, 2020 09:47:35 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 09:47:35 PM    SUCCESS > Found: Event 7
+July 13, 2020 09:47:35 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 09:47:38 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 09:47:38 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 09:48:16 PM    STARTED > login_handler.php for acctype: UC
+July 13, 2020 09:48:16 PM    SUCCESS > user logged in: ng_weibin
+July 13, 2020 09:48:27 PM    STARTED > edit_event_handler.php for uc ng_weibin
+July 13, 2020 09:48:27 PM    SUCCESS > Update Events table e_id: 29 (simple)
+July 13, 2020 09:48:35 PM    STARTED > edit_presentation_handler.php for uc ng_weibin
+July 13, 2020 09:48:35 PM    SUCCESS > Update Presentations table p_id: 45 (no mailer)
+July 13, 2020 09:48:35 PM    SUCCESS > Update Users table u_id: 90
+July 13, 2020 09:48:40 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 09:48:40 PM    SUCCESS > Found: Event 7
+July 13, 2020 09:48:40 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 09:48:42 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 09:48:42 PM    SUCCESS > Found: Event 45
+July 13, 2020 09:48:42 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 09:48:45 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 09:48:45 PM    SUCCESS > Found: Event 45
+July 13, 2020 09:48:45 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 09:48:47 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 09:48:47 PM    COMPLETED > All Assessment matrix have been sent
+July 13, 2020 09:49:17 PM    STARTED > feedback_form_handler.php for a_id 50, p_id 45
+July 13, 2020 09:49:17 PM    SUCCESS > Attendee match (true) a_id 50, p_id 45
+July 13, 2020 09:49:17 PM    SUCCESS > Insert into Results table a_id 50, p_id 45
+July 13, 2020 09:49:17 PM    SUCCESS > Update Results table r_id: 25
+July 13, 2020 09:49:37 PM    STARTED > feedback_form_handler.php for a_id 51, p_id 45
+July 13, 2020 09:49:37 PM    SUCCESS > Attendee match (true) a_id 51, p_id 45
+July 13, 2020 09:49:37 PM    SUCCESS > Insert into Results table a_id 51, p_id 45
+July 13, 2020 09:49:37 PM    SUCCESS > Update Results table r_id: 26
+July 13, 2020 10:50:39 PM    STARTED > Cron_job for assessment matrix delivery
+July 13, 2020 10:50:39 PM    SUCCESS > Found: Event 7
+July 13, 2020 10:50:39 PM    SUCCESS > Found: Email glennlum_@hotmail.com
+July 13, 2020 10:50:42 PM    SUCCESS > Email Sent to: glennlum_@hotmail.com
+July 13, 2020 10:50:42 PM    SUCCESS > Found: Event 45
+July 13, 2020 10:50:42 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 13, 2020 10:50:44 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 13, 2020 10:50:44 PM    SUCCESS > Found: Event 45
+July 13, 2020 10:50:44 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 13, 2020 10:50:47 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 13, 2020 10:50:47 PM    COMPLETED > All Assessment matrix have been sent
+July 14, 2020 01:11:35 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 14, 2020 01:11:35 AM    SUCCESS > Update Users table e_id: 83 (simple)
+July 14, 2020 01:11:42 AM    STARTED > login_handler.php for acctype: UC
+July 14, 2020 01:11:42 AM    SUCCESS > user logged in: john_arrow
+July 14, 2020 02:25:01 AM    STARTED > Cron_job for assessment matrix delivery
+July 14, 2020 02:25:01 AM    COMPLETED > All Assessment matrix have been sent
+July 14, 2020 01:25:49 PM    STARTED > feedback_form_handler.php for a_id 52, p_id 45
+July 14, 2020 01:25:49 PM    FAILURE > Attendee match (false) a_id 52, p_id 45
+July 14, 2020 01:26:38 PM    STARTED > feedback_form_handler.php for a_id 53, p_id 45
+July 14, 2020 01:26:38 PM    FAILURE > Attendee match (false) a_id 53, p_id 45
+July 15, 2020 07:04:17 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 07:04:17 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 07:04:20 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 07:04:20 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 07:05:13 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 07:05:13 PM    SUCCESS > user logged in: john_arrow
+July 15, 2020 07:05:22 PM    STARTED > edit_presentation_handler.php for uc john_arrow
+July 15, 2020 07:05:22 PM    SUCCESS > Update Presentations table p_id: 45 (no mailer)
+July 15, 2020 07:05:22 PM    SUCCESS > Update Users table u_id: 90
+July 15, 2020 07:05:29 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 07:05:29 PM    SUCCESS > Found: Event 45
+July 15, 2020 07:05:29 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 15, 2020 07:05:33 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 15, 2020 07:05:33 PM    SUCCESS > Found: Event 45
+July 15, 2020 07:05:33 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 15, 2020 07:05:36 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 15, 2020 07:05:36 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 07:07:20 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 07:07:20 PM    SUCCESS > Found: Event 45
+July 15, 2020 07:07:20 PM    SUCCESS > Found: Email ng_weibin@hotmail.com
+July 15, 2020 07:07:23 PM    SUCCESS > Email Sent to: ng_weibin@hotmail.com
+July 15, 2020 07:07:23 PM    SUCCESS > Found: Event 45
+July 15, 2020 07:07:23 PM    SUCCESS > Found: Email ng_weibin@yahoo.com.sg
+July 15, 2020 07:07:25 PM    SUCCESS > Email Sent to: ng_weibin@yahoo.com.sg
+July 15, 2020 07:07:25 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 09:19:45 PM    SUCCESS > user logged out
+July 15, 2020 09:22:06 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:22:06 PM    FAILURE > invalid email or password
+July 15, 2020 09:22:10 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:22:10 PM    SUCCESS > user logged in: john_arrow
+July 15, 2020 09:23:01 PM    STARTED > new_presentation_handler.php for uc john_arrow
+July 15, 2020 09:23:01 PM    SUCCESS > insertion into Users table: ICT287_YAHOO_p2 lord.ngweibin@hotmail.com
+July 15, 2020 09:23:01 PM    SUCCESS > insertion into Presentations table: ICT287 YAHOO Presentation 2
+July 15, 2020 09:23:04 PM    SUCCESS > mail delivered: lord.ngweibin@hotmail.com
+July 15, 2020 09:24:06 PM    SUCCESS > user logged out
+July 15, 2020 09:24:35 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:24:35 PM    SUCCESS > user logged in: ICT287_YAHOO_p2
+July 15, 2020 09:24:48 PM    STARTED > upload_handler.php for PresentationID: 46
+July 15, 2020 09:24:48 PM    SUCCESS > Update query completed 
+July 15, 2020 09:24:54 PM    SUCCESS > The video is successfully converted to mp4
+July 15, 2020 09:24:54 PM    SUCCESS > Delete temporary File path success 
+July 15, 2020 09:24:54 PM    SUCESS > Presentation is successfully uploaded
+July 15, 2020 09:24:54 PM    Complete > Successfully completed 
+July 15, 2020 09:25:04 PM    SUCCESS > user logged out
+July 15, 2020 09:25:20 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:25:20 PM    SUCCESS > user logged in: john_arrow
+July 15, 2020 09:25:58 PM    SUCCESS > user logged out
+July 15, 2020 09:27:04 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:27:04 PM    FAILURE > invalid email or password
+July 15, 2020 09:27:42 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:27:42 PM    FAILURE > invalid email or password
+July 15, 2020 09:28:19 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:28:19 PM    FAILURE > invalid email or password
+July 15, 2020 09:28:29 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:28:29 PM    FAILURE > invalid email or password
+July 15, 2020 09:29:05 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:29:05 PM    SUCCESS > user logged in: john_arrow
+July 15, 2020 09:30:57 PM    STARTED > delete_event_handler.php for uc john_arrow
+July 15, 2020 09:30:57 PM    SUCCESS > Delete the presentation video from Presentations table p_id:  
+July 15, 2020 09:30:57 PM    SUCCESS > Delete from Presentations table p_id: 45
+July 15, 2020 09:30:57 PM    SUCCESS > Delete from Users table u_id: 90
+July 15, 2020 09:30:57 PM    SUCCESS > Delete the presentation video from Presentations table p_id:  
+July 15, 2020 09:30:57 PM    SUCCESS > Delete from Presentations table p_id: 46
+July 15, 2020 09:30:57 PM    SUCCESS > Delete from Users table u_id: 91
+July 15, 2020 09:30:57 PM    SUCCESS > Delete from Events table e_id: 29
+July 15, 2020 09:32:41 PM    SUCCESS > user logged out
+July 15, 2020 09:33:21 PM    STARTED > register_handler.php for acctype: UC
+July 15, 2020 09:33:21 PM    FAILURE > invalid input / record already exists : lord.ngweibin@gmail.com
+July 15, 2020 09:33:43 PM    STARTED > register_handler.php for acctype: UC
+July 15, 2020 09:33:43 PM    FAILURE > invalid input / record already exists : lord.ngweibin@gmail.com
+July 15, 2020 09:35:19 PM    STARTED > register_handler.php for acctype: UC
+July 15, 2020 09:35:19 PM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 15, 2020 09:35:22 PM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 15, 2020 09:35:48 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:35:48 PM    SUCCESS > user logged in: ng_weibin
+July 15, 2020 09:36:46 PM    STARTED > new_event_handler.php for uc ng_weibin
+July 15, 2020 09:36:46 PM    SUCCESS > insertion into EVENTS table: ICT286 MONDAY 
+July 15, 2020 09:37:08 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 15, 2020 09:37:08 PM    SUCCESS > insertion into Users table: ICT286_MONDAY_p1 lord.ngweibin@gmail.com
+July 15, 2020 09:37:08 PM    SUCCESS > insertion into Presentations table: ICT286 MONDAY  Presentation 1
+July 15, 2020 09:37:11 PM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 15, 2020 09:37:28 PM    SUCCESS > user logged out
+July 15, 2020 09:37:37 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:37:37 PM    SUCCESS > user logged in: ICT286_MONDAY_p1
+July 15, 2020 09:42:59 PM    SUCCESS > user logged out
+July 15, 2020 09:44:49 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:44:49 PM    SUCCESS > user logged in: ng_weibin
+July 15, 2020 09:45:21 PM    STARTED > new_event_handler.php for uc ng_weibin
+July 15, 2020 09:45:21 PM    SUCCESS > insertion into EVENTS table: ICT286 MONDAY 
+July 15, 2020 09:46:36 PM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 15, 2020 09:46:36 PM    SUCCESS > insertion into Users table: ICT286_MONDAY_p1 ng_weibin@hotmail.com
+July 15, 2020 09:46:36 PM    SUCCESS > insertion into Presentations table: ICT286 MONDAY  Presentation 1
+July 15, 2020 09:46:39 PM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 15, 2020 09:46:51 PM    SUCCESS > user logged out
+July 15, 2020 09:47:01 PM    STARTED > login_handler.php for acctype: REP
+July 15, 2020 09:47:01 PM    SUCCESS > user logged in: ICT286_MONDAY_p1
+July 15, 2020 09:47:33 PM    STARTED > upload_handler.php for PresentationID: 48
+July 15, 2020 09:47:33 PM    SUCCESS > Update query completed 
+July 15, 2020 09:47:48 PM    SUCCESS > The video is successfully converted to mp4
+July 15, 2020 09:47:48 PM    SUCCESS > Delete temporary File path success 
+July 15, 2020 09:47:48 PM    SUCESS > Presentation is successfully uploaded
+July 15, 2020 09:47:48 PM    Complete > Successfully completed 
+July 15, 2020 09:49:00 PM    STARTED > signup_handler.php for p_id: 48
+July 15, 2020 09:49:00 PM    SUCCESS > insertion into ATTENDEES table: lord.ngweibin@hotmail.com
+July 15, 2020 09:49:03 PM    SUCCESS > mail delivered: lord.ngweibin@hotmail.com
+July 15, 2020 09:49:58 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 09:49:58 PM    SUCCESS > Found: Event 48
+July 15, 2020 09:49:58 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 15, 2020 09:50:01 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 15, 2020 09:50:01 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 09:51:26 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 09:51:26 PM    SUCCESS > Found: Event 48
+July 15, 2020 09:51:26 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 15, 2020 09:51:29 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 15, 2020 09:51:29 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 09:56:05 PM    STARTED > Cron_job for assessment matrix delivery
+July 15, 2020 09:56:05 PM    SUCCESS > Found: Event 48
+July 15, 2020 09:56:05 PM    SUCCESS > Found: Email lord.ngweibin@hotmail.com
+July 15, 2020 09:56:08 PM    SUCCESS > Email Sent to: lord.ngweibin@hotmail.com
+July 15, 2020 09:56:08 PM    COMPLETED > All Assessment matrix have been sent
+July 15, 2020 09:57:25 PM    STARTED > feedback_form_handler.php for a_id 52, p_id 48
+July 15, 2020 09:57:25 PM    SUCCESS > Attendee match (true) a_id 52, p_id 48
+July 15, 2020 09:57:25 PM    SUCCESS > Insert into Results table a_id 52, p_id 48
+July 15, 2020 09:57:25 PM    SUCCESS > Update Results table r_id: 27
+July 15, 2020 09:57:35 PM    SUCCESS > user logged out
+July 15, 2020 09:57:47 PM    STARTED > login_handler.php for acctype: UC
+July 15, 2020 09:57:47 PM    SUCCESS > user logged in: ng_weibin
+July 15, 2020 09:58:51 PM    SUCCESS > Delete the presentation video from Presentations table p_id: 48 
+July 15, 2020 09:58:51 PM    SUCCESS > Delete from Presentations table p_id: 48 (simple)
+July 15, 2020 09:58:51 PM    SUCCESS > Delete from Users table u_id: 94
+July 16, 2020 12:14:39 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 12:14:39 AM    SUCCESS > user logged in: ng_weibin
+July 16, 2020 12:15:19 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:15:19 AM    SUCCESS > insertion into Users table: ICT286_MONDAY_p1 lord.ngweibin@gmail.com
+July 16, 2020 12:15:19 AM    SUCCESS > insertion into Presentations table: ICT286 MONDAY  Presentation 1
+July 16, 2020 12:15:22 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 12:29:10 AM    SUCCESS > Delete from Presentations table p_id: 49 (simple)
+July 16, 2020 12:29:10 AM    SUCCESS > Delete from Users table u_id: 95
+July 16, 2020 12:30:17 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:30:17 AM    SUCCESS > insertion into Users table: ICT286_MONDAY_p1 lord.ngweibin@gmail.com
+July 16, 2020 12:30:17 AM    SUCCESS > insertion into Presentations table: ICT286 MONDAY  Presentation 1
+July 16, 2020 12:30:20 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 12:30:45 AM    STARTED > edit_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:30:45 AM    SUCCESS > Update Presentations table p_id: 50 (no mailer)
+July 16, 2020 12:30:45 AM    SUCCESS > Update Users table u_id: 96
+July 16, 2020 12:32:38 AM    SUCCESS > Delete from Presentations table p_id: 50 (simple)
+July 16, 2020 12:32:38 AM    SUCCESS > Delete from Users table u_id: 96
+July 16, 2020 12:33:03 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:33:03 AM    Failure > Email: Email is not same as UC
+July 16, 2020 12:33:03 AM    FAILURE > invalid input
+July 16, 2020 12:33:10 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:33:10 AM    Failure > Email: Email is not same as UC
+July 16, 2020 12:33:10 AM    SUCCESS > insertion into Users table: ICT286_MONDAY_p1 lord.ngweibin@gmail.com
+July 16, 2020 12:33:10 AM    SUCCESS > insertion into Presentations table: ICT286 MONDAY  Presentation 1
+July 16, 2020 12:33:13 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 12:38:16 AM    SUCCESS > Delete from Presentations table p_id: 51 (simple)
+July 16, 2020 12:38:16 AM    SUCCESS > Delete from Users table u_id: 97
+July 16, 2020 12:43:59 AM    STARTED > delete_event_handler.php for uc ng_weibin
+July 16, 2020 12:43:59 AM    SUCCESS > Delete from Events table e_id: 31
+July 16, 2020 12:44:25 AM    STARTED > new_event_handler.php for uc ng_weibin
+July 16, 2020 12:44:25 AM    SUCCESS > insertion into EVENTS table: ICT456 MONDAY 
+July 16, 2020 12:50:47 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:50:47 AM    Failure > Email: Email is not same as UC
+July 16, 2020 12:50:47 AM    FAILURE > invalid input
+July 16, 2020 12:50:56 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:50:56 AM    SUCCESS > insertion into Users table: ICT456_MONDAY_p1 ng_weibin@hotmail.com
+July 16, 2020 12:50:56 AM    SUCCESS > insertion into Presentations table: ICT456 MONDAY  Presentation 1
+July 16, 2020 12:50:59 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 12:52:41 AM    SUCCESS > Delete from Presentations table p_id: 52 (simple)
+July 16, 2020 12:52:41 AM    SUCCESS > Delete from Users table u_id: 98
+July 16, 2020 12:52:55 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 12:52:55 AM    SUCCESS > insertion into Users table: ICT456_MONDAY_p1 ng_weibin@hotmail.com
+July 16, 2020 12:52:55 AM    SUCCESS > insertion into Presentations table: ICT456 MONDAY  Presentation 1
+July 16, 2020 12:52:58 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:02:25 AM    SUCCESS > Delete from Presentations table p_id: 53 (simple)
+July 16, 2020 01:02:25 AM    SUCCESS > Delete from Users table u_id: 99
+July 16, 2020 01:02:41 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:02:41 AM    SUCCESS > insertion into Users table: ICT456_MONDAY_p1 ng_weibin@hotmail.com
+July 16, 2020 01:02:41 AM    SUCCESS > insertion into Presentations table: ICT456 MONDAY  Presentation 1
+July 16, 2020 01:02:44 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:03:39 AM    STARTED > delete_event_handler.php for uc ng_weibin
+July 16, 2020 01:03:39 AM    SUCCESS > Delete from Presentations table p_id: 54
+July 16, 2020 01:03:39 AM    SUCCESS > Delete from Users table u_id: 100
+July 16, 2020 01:03:39 AM    SUCCESS > Delete from Events table e_id: 32
+July 16, 2020 01:03:53 AM    STARTED > new_event_handler.php for uc ng_weibin
+July 16, 2020 01:03:53 AM    SUCCESS > insertion into EVENTS table: ICT286 DONT KNOW AS TRUMP
+July 16, 2020 01:04:08 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:04:08 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 16, 2020 01:04:08 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 1
+July 16, 2020 01:04:10 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:10:38 AM    SUCCESS > Delete from Presentations table p_id: 55 (simple)
+July 16, 2020 01:10:38 AM    SUCCESS > Delete from Users table u_id: 101
+July 16, 2020 01:10:52 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:10:52 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 16, 2020 01:10:52 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 1
+July 16, 2020 01:10:55 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:10:59 AM    SUCCESS > Delete from Presentations table p_id: 56 (simple)
+July 16, 2020 01:10:59 AM    SUCCESS > Delete from Users table u_id: 102
+July 16, 2020 01:11:58 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:11:58 AM    Failure > Email: Email is not same as UC
+July 16, 2020 01:11:58 AM    FAILURE > invalid input
+July 16, 2020 01:12:20 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:12:20 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 16, 2020 01:12:20 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 1
+July 16, 2020 01:12:22 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:14:20 AM    SUCCESS > Delete from Presentations table p_id: 57 (simple)
+July 16, 2020 01:14:20 AM    SUCCESS > Delete from Users table u_id: 103
+July 16, 2020 01:14:35 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:14:35 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 16, 2020 01:14:35 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 1
+July 16, 2020 01:14:38 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:16:23 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:16:23 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p2 ng_weibin@yahoo.com.sg
+July 16, 2020 01:16:23 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 2
+July 16, 2020 01:16:25 AM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 16, 2020 01:18:54 AM    SUCCESS > Delete from Presentations table p_id: 59 (simple)
+July 16, 2020 01:18:54 AM    SUCCESS > Delete from Users table u_id: 105
+July 16, 2020 01:18:57 AM    SUCCESS > Delete from Presentations table p_id: 58 (simple)
+July 16, 2020 01:18:57 AM    SUCCESS > Delete from Users table u_id: 104
+July 16, 2020 01:19:16 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:19:16 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p1 ng_weibin@hotmail.com
+July 16, 2020 01:19:16 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 1
+July 16, 2020 01:19:18 AM    SUCCESS > mail delivered: ng_weibin@hotmail.com
+July 16, 2020 01:19:42 AM    STARTED > new_presentation_handler.php for uc ng_weibin
+July 16, 2020 01:19:42 AM    SUCCESS > insertion into Users table: ICT286_DONTKNOWASTRUMP_p2 ng_weibin@yahoo.com.sg
+July 16, 2020 01:19:42 AM    SUCCESS > insertion into Presentations table: ICT286 DONT KNOW AS TRUMP Presentation 2
+July 16, 2020 01:19:45 AM    SUCCESS > mail delivered: ng_weibin@yahoo.com.sg
+July 16, 2020 01:22:30 AM    STARTED > new_event_handler.php for uc ng_weibin
+July 16, 2020 01:22:30 AM    SUCCESS > insertion into EVENTS table: ICT287 MARVEL AVENGERS
+July 16, 2020 01:22:49 AM    STARTED > delete_event_handler.php for uc ng_weibin
+July 16, 2020 01:22:49 AM    SUCCESS > Delete from Events table e_id: 34
+July 16, 2020 01:23:09 AM    SUCCESS > user logged out
+July 16, 2020 01:24:32 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:24:32 AM    SUCCESS > user logged in: ng_weibin
+July 16, 2020 01:25:15 AM    STARTED > edit_uc_handler.php for  ng_weibin
+July 16, 2020 01:25:15 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 01:25:23 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:25:23 AM    SUCCESS > user logged in: donald_.j.trump
+July 16, 2020 01:34:37 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:34:37 AM    FAILURE > invalid email or password
+July 16, 2020 01:34:43 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:34:43 AM    SUCCESS > user logged in: donald_.j.trump
+July 16, 2020 01:35:14 AM    STARTED > edit_uc_handler.php for  donald_.j.trump
+July 16, 2020 01:35:14 AM    FAILURE > invalid input
+July 16, 2020 01:38:37 AM    STARTED > edit_uc_handler.php for  donald_.j.trump
+July 16, 2020 01:38:37 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 01:38:42 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:38:42 AM    SUCCESS > user logged in: we_wew
+July 16, 2020 01:38:47 AM    SUCCESS > user logged out
+July 16, 2020 01:39:12 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:39:12 AM    FAILURE > invalid input / record already exists : lord.ngweibin@gmail.com
+July 16, 2020 01:39:36 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:39:36 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:39:38 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:40:14 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:40:14 AM    SUCCESS > user logged in: ngweibin_jongun
+July 16, 2020 01:40:23 AM    STARTED > edit_uc_handler.php for  ngweibin_jongun
+July 16, 2020 01:40:23 AM    SUCCESS > Update Users table e_id: 108 (simple)
+July 16, 2020 01:40:27 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:40:27 AM    SUCCESS > user logged in: ngweibin_bin
+July 16, 2020 01:40:45 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 01:40:45 AM    SUCCESS > Update Users table e_id: 108 (simple)
+July 16, 2020 01:42:07 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:42:07 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:42:09 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:42:34 AM    SUCCESS > user logged out
+July 16, 2020 01:43:01 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:43:01 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:43:04 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:46:52 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:46:52 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:46:54 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:50:26 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:50:26 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:50:29 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:50:42 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:50:42 AM    SUCCESS > user logged in: ng_bin
+July 16, 2020 01:51:32 AM    SUCCESS > user logged out
+July 16, 2020 01:52:01 AM    STARTED > register_handler.php for acctype: UC
+July 16, 2020 01:52:01 AM    SUCCESS > insertion into USERS table: lord.ngweibin@gmail.com
+July 16, 2020 01:52:03 AM    SUCCESS > mail delivered: lord.ngweibin@gmail.com
+July 16, 2020 01:52:54 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:52:54 AM    FAILURE > invalid email or password
+July 16, 2020 01:52:57 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:52:57 AM    SUCCESS > user logged in: we_wew
+July 16, 2020 01:57:12 AM    STARTED > edit_uc_handler.php for  we_wew
+July 16, 2020 01:57:12 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 01:57:50 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:57:50 AM    SUCCESS > user logged in: ngweibin_bin
+July 16, 2020 01:59:35 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 01:59:35 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 01:59:40 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:59:40 AM    FAILURE > invalid email or password
+July 16, 2020 01:59:44 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 01:59:44 AM    SUCCESS > user logged in: ty_bin
+July 16, 2020 01:59:53 AM    STARTED > edit_uc_handler.php for  ty_bin
+July 16, 2020 01:59:53 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:04:01 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:04:01 AM    SUCCESS > user logged in: ngweibin_bin
+July 16, 2020 02:04:14 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 02:04:14 AM    SUCCESS > Same Email
+July 16, 2020 02:04:14 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:04:45 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:04:45 AM    SUCCESS > user logged in: ngweibin_bin_1
+July 16, 2020 02:04:54 AM    STARTED > edit_uc_handler.php for  ngweibin_bin_1
+July 16, 2020 02:04:54 AM    SUCCESS > Same Email
+July 16, 2020 02:04:54 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:08:55 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:08:55 AM    SUCCESS > user logged in: ngweibin_bin
+July 16, 2020 02:09:11 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 02:09:11 AM    SUCCESS > Same Email, lord.ngweibin@gmail.com
+July 16, 2020 02:09:11 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:11:53 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:11:53 AM    SUCCESS > user logged in: ngweibin_bin_1
+July 16, 2020 02:12:00 AM    STARTED > edit_uc_handler.php for  ngweibin_bin_1
+July 16, 2020 02:12:00 AM    SUCCESS > Same Email, lord.ngweibin@gmail.com
+July 16, 2020 02:12:00 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:14:03 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:14:03 AM    SUCCESS > user logged in: ngweibin_bin
+July 16, 2020 02:14:16 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 02:14:16 AM    CHECKING > Different Email, lord.ngweibin@hotmail.com
+July 16, 2020 02:14:16 AM    FAILURE > invalid input
+July 16, 2020 02:14:27 AM    STARTED > edit_uc_handler.php for  ngweibin_bin
+July 16, 2020 02:14:27 AM    SUCCESS > Same Email, lord.ngweibin@hotmail.com
+July 16, 2020 02:14:27 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:16:09 AM    STARTED > login_handler.php for acctype: UC
+July 16, 2020 02:16:09 AM    SUCCESS > user logged in: ngweibin_bin_1
+July 16, 2020 02:16:19 AM    STARTED > edit_uc_handler.php for  ngweibin_bin_1
+July 16, 2020 02:16:19 AM    CHECKING > Different Email, lord.ngweibin@hotmail.com & lord.ngweibin@gmail.com
+July 16, 2020 02:16:19 AM    FAILURE > invalid input
+July 16, 2020 02:16:32 AM    STARTED > edit_uc_handler.php for  ngweibin_bin_1
+July 16, 2020 02:16:32 AM    SUCCESS > Same Email, lord.ngweibin@hotmail.com & lord.ngweibin@hotmail.com
+July 16, 2020 02:16:32 AM    SUCCESS > Update Users table e_id: 92 (simple)
+July 16, 2020 02:19:40 AM    SUCCESS > user logged out
+July 18, 2020 09:07:09 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:07:10 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:07:10 PM    Complete > Successfully completed 
+July 18, 2020 09:07:29 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:07:29 PM    FAILURE > Could not delete file
+July 18, 2020 09:07:29 PM    FAILURE > Old video can not be deleted
+July 18, 2020 09:07:30 PM    SUCCESS > Update query completed 
+July 18, 2020 09:07:36 PM    SUCCESS > The video is successfully converted to mp4
+July 18, 2020 09:07:36 PM    SUCCESS > Delete temporary File path success 
+July 18, 2020 09:07:36 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:07:36 PM    Complete > Successfully completed 
+July 18, 2020 09:08:00 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:02 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:08:02 PM    Complete > Successfully completed 
+July 18, 2020 09:08:22 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:22 PM    FAILURE > Tittle is invalid. Can't be more than 100 characters and less than 2 characters 
+July 18, 2020 09:08:22 PM    FAILURE > The title  won't be inserted
+July 18, 2020 09:08:22 PM    FAILURE > The description The first presenation  won't be inserted 
+July 18, 2020 09:08:22 PM    FAILURE > The speaker note Speaker one 
+ won't be inserted 
+July 18, 2020 09:08:22 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:08:22 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:08:30 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:30 PM    FAILURE > Description is invalid. Can't be more than 1000 and less than 2 characters
+July 18, 2020 09:08:30 PM    FAILURE > The title Web Development  won't be inserted
+July 18, 2020 09:08:30 PM    FAILURE > The description  won't be inserted 
+July 18, 2020 09:08:30 PM    FAILURE > The speaker note Speaker one 
+ won't be inserted 
+July 18, 2020 09:08:30 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:08:30 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:08:43 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:43 PM    FAILURE > Speaker_note is invalid. Can't be more than 1000 and less than 2 characters
+July 18, 2020 09:08:43 PM    FAILURE > The title Web Development  won't be inserted
+July 18, 2020 09:08:43 PM    FAILURE > The description sdfas adfasdfas won't be inserted 
+July 18, 2020 09:08:43 PM    FAILURE > The speaker note  won't be inserted 
+July 18, 2020 09:08:43 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:08:43 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:08:52 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:52 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:08:52 PM    Complete > Successfully completed 
+July 18, 2020 09:08:58 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:08:58 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:08:58 PM    Complete > Successfully completed 
+July 18, 2020 09:09:02 PM    SUCCESS > user logged out
+July 18, 2020 09:09:36 PM    STARTED > login_handler.php for acctype: REP
+July 18, 2020 09:09:36 PM    SUCCESS > user logged in: ICT303_TJA2020_p1
+July 18, 2020 09:12:15 PM    STARTED > upload_handler.php for PresentationID: 46
+July 18, 2020 09:12:16 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:12:16 PM    Complete > Successfully completed 
+July 18, 2020 09:12:33 PM    SUCCESS > user logged out
+July 18, 2020 09:12:55 PM    STARTED > login_handler.php for acctype: UC
+July 18, 2020 09:12:55 PM    SUCCESS > user logged in: bella_min
+July 18, 2020 09:13:15 PM    STARTED > new_event_handler.php for uc bella_min
+July 18, 2020 09:13:16 PM    SUCCESS > insertion into EVENTS table: ICT303 TM2020
+July 18, 2020 09:13:34 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:13:34 PM    SUCCESS > insertion into Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:13:34 PM    FAILURE > insertion into Presentations table: ICT303 TM2020 Presentation 1
+July 18, 2020 09:13:34 PM    SUCCESS > deletion from Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:13:41 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:13:41 PM    SUCCESS > insertion into Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:13:41 PM    FAILURE > insertion into Presentations table: ICT303 TM2020 Presentation 1
+July 18, 2020 09:13:41 PM    SUCCESS > deletion from Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:14:02 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:14:02 PM    SUCCESS > insertion into Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:14:02 PM    FAILURE > insertion into Presentations table: ICT303 TM2020 Presentation 1
+July 18, 2020 09:14:02 PM    SUCCESS > deletion from Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:14:32 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:14:33 PM    SUCCESS > insertion into Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:14:33 PM    FAILURE > insertion into Presentations table: ICT303 TM2020 Presentation 1
+July 18, 2020 09:14:33 PM    SUCCESS > deletion from Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:15:40 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:15:41 PM    SUCCESS > insertion into Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:15:41 PM    FAILURE > insertion into Presentations table: ICT303 TM2020 Presentation 1
+July 18, 2020 09:15:41 PM    SUCCESS > deletion from Users table: ICT303_TM2020_p1 minthuwathone@hotmail.com
+July 18, 2020 09:15:58 PM    STARTED > delete_event_handler.php for uc bella_min
+July 18, 2020 09:15:58 PM    SUCCESS > Delete from Events table e_id: 31
+July 18, 2020 09:16:14 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:16:14 PM    SUCCESS > insertion into Users table: ICT303_TJA2020_p2 minthuwathone@hotmail.com
+July 18, 2020 09:16:14 PM    FAILURE > insertion into Presentations table: ICT303 TJA2020 Presentation 2
+July 18, 2020 09:16:14 PM    SUCCESS > deletion from Users table: ICT303_TJA2020_p2 minthuwathone@hotmail.com
+July 18, 2020 09:16:49 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:16:49 PM    SUCCESS > insertion into Users table: ICT303_TJA2020_p2 minthuwathone@hotmail.com
+July 18, 2020 09:16:50 PM    FAILURE > insertion into Presentations table: ICT303 TJA2020 Presentation 2
+July 18, 2020 09:16:50 PM    SUCCESS > deletion from Users table: ICT303_TJA2020_p2 minthuwathone@hotmail.com
+July 18, 2020 09:17:16 PM    SUCCESS > user logged out
+July 18, 2020 09:23:07 PM    STARTED > login_handler.php for acctype: UC
+July 18, 2020 09:23:07 PM    FAILURE > invalid email or password
+July 18, 2020 09:23:13 PM    STARTED > login_handler.php for acctype: UC
+July 18, 2020 09:23:13 PM    SUCCESS > user logged in: bella_min
+July 18, 2020 09:23:30 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:23:30 PM    SUCCESS > insertion into Users table: ICT303_TJA2020_p2 minthuwathone@hotmail.com
+July 18, 2020 09:23:31 PM    SUCCESS > insertion into Presentations table: ICT303 TJA2020 Presentation 2
+July 18, 2020 09:23:36 PM    SUCCESS > mail delivered: minthuwathone@hotmail.com
+July 18, 2020 09:24:03 PM    SUCCESS > user logged out
+July 18, 2020 09:24:15 PM    STARTED > login_handler.php for acctype: REP
+July 18, 2020 09:24:15 PM    SUCCESS > user logged in: ICT303_TJA2020_p2
+July 18, 2020 09:24:40 PM    STARTED > upload_handler.php for PresentationID: 47
+July 18, 2020 09:24:40 PM    FAILURE > The video doesn't exist
+July 18, 2020 09:24:40 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:24:40 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:24:56 PM    STARTED > upload_handler.php for PresentationID: 47
+July 18, 2020 09:24:56 PM    FAILURE > Tittle is invalid. Can't be more than 100 characters and less than 2 characters 
+July 18, 2020 09:24:56 PM    FAILURE > The title  won't be inserted
+July 18, 2020 09:24:56 PM    FAILURE > The description DKSALF LKASDF JASLDF  won't be inserted 
+July 18, 2020 09:24:56 PM    FAILURE > The speaker note Speaker on e
+Speaker two  won't be inserted 
+July 18, 2020 09:24:56 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:24:56 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:25:24 PM    STARTED > upload_handler.php for PresentationID: 47
+July 18, 2020 09:25:24 PM    SUCCESS > Update query completed 
+July 18, 2020 09:25:30 PM    SUCCESS > The video is successfully converted to mp4
+July 18, 2020 09:25:30 PM    SUCCESS > Delete temporary File path success 
+July 18, 2020 09:25:30 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:25:30 PM    Complete > Successfully completed 
+July 18, 2020 09:26:01 PM    STARTED > upload_handler.php for PresentationID: 47
+July 18, 2020 09:26:01 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:26:01 PM    Complete > Successfully completed 
+July 18, 2020 09:26:17 PM    STARTED > upload_handler.php for PresentationID: 47
+July 18, 2020 09:26:17 PM    FAILURE > Old video is deleted
+July 18, 2020 09:26:18 PM    SUCCESS > Update query completed 
+July 18, 2020 09:26:48 PM    SUCCESS > The video is successfully converted to mp4
+July 18, 2020 09:26:48 PM    SUCCESS > Delete temporary File path success 
+July 18, 2020 09:26:48 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:26:48 PM    Complete > Successfully completed 
+July 18, 2020 09:27:08 PM    SUCCESS > user logged out
+July 18, 2020 09:27:25 PM    STARTED > login_handler.php for acctype: UC
+July 18, 2020 09:27:25 PM    SUCCESS > user logged in: bella_min
+July 18, 2020 09:27:42 PM    STARTED > new_presentation_handler.php for uc bella_min
+July 18, 2020 09:27:42 PM    SUCCESS > insertion into Users table: ICT303_TJA2020_p3 minthuwathone@hotmail.com
+July 18, 2020 09:27:42 PM    SUCCESS > insertion into Presentations table: ICT303 TJA2020 Presentation 3
+July 18, 2020 09:27:47 PM    SUCCESS > mail delivered: minthuwathone@hotmail.com
+July 18, 2020 09:28:23 PM    SUCCESS > user logged out
+July 18, 2020 09:28:39 PM    STARTED > login_handler.php for acctype: REP
+July 18, 2020 09:28:39 PM    SUCCESS > user logged in: ICT303_TJA2020_p3
+July 18, 2020 09:29:01 PM    STARTED > upload_handler.php for PresentationID: 48
+July 18, 2020 09:29:01 PM    FAILURE > Description is invalid. Can't be more than 1000 and less than 2 characters
+July 18, 2020 09:29:01 PM    FAILURE > The title Web Development  won't be inserted
+July 18, 2020 09:29:01 PM    FAILURE > The description  won't be inserted 
+July 18, 2020 09:29:01 PM    FAILURE > The speaker note Speaker one 
+Speaker two  won't be inserted 
+July 18, 2020 09:29:01 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:29:01 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:29:09 PM    STARTED > upload_handler.php for PresentationID: 48
+July 18, 2020 09:29:09 PM    FAILURE > The video doesn't exist
+July 18, 2020 09:29:09 PM    FAILURE > Presentation couldn't be uploaded
+July 18, 2020 09:29:09 PM    FAILURE > Uploading of presentation is terminated
+July 18, 2020 09:29:34 PM    STARTED > upload_handler.php for PresentationID: 48
+July 18, 2020 09:29:34 PM    SUCCESS > Update query completed 
+July 18, 2020 09:29:41 PM    SUCCESS > The video is successfully converted to mp4
+July 18, 2020 09:29:41 PM    SUCCESS > Delete temporary File path success 
+July 18, 2020 09:29:41 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:29:41 PM    Complete > Successfully completed 
+July 18, 2020 09:30:06 PM    STARTED > upload_handler.php for PresentationID: 48
+July 18, 2020 09:30:06 PM    SUCESS > Presentation is successfully uploaded
+July 18, 2020 09:30:06 PM    Complete > Successfully completed 
+July 18, 2020 09:30:21 PM    SUCCESS > user logged out

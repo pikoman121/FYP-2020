@@ -1,0 +1,221 @@
+
+/* Futura bold italic font */
+@font-face
+{
+	font-family: 'futuraBoldItalic';
+	src: url(../fonts/futuraBoldItalic.otf);
+}
+
+/* arial font */
+@font-face
+{
+	font-family: 'arial';
+	src: url(../fonts/ARIAL.TTF);
+}
+
+/* arialbd font */
+@font-face
+{
+	font-family: 'arialbd';
+	src: url(../fonts/ARIALBD1.TTF);
+}
+
+html,body
+{
+	height:100%;
+	min-height:100%;
+}
+
+form
+{
+	text-align:center;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	background-image: url("../images/backgrounds/cinema_chairs.jpg");
+	background-size:100%;
+}
+
+a
+{
+	text-decoration:none;
+	color:#CD0000;
+	font-size:14px;
+}
+
+a:hover
+{
+	text-decoration:underline;
+}
+
+
+/*remove all default button outlines*/
+button:focus
+{
+	outline:0;
+}
+
+p
+{
+	font-family: 'arial',sans-serif;
+	color:#CCCCCC;
+	margin:0;
+	padding:0;
+	margin-bottom:15px;
+}
+
+.wrapper
+{
+	background-image: url("../images/backgrounds/cinema_chairs.jpg");
+	width:100%;
+	height:100%;
+    max-height: 100%;
+    overflow-y: scroll;
+}
+
+.login_box
+{
+	font-family: 'arial',sans-serif;
+	position:relative;
+	margin-right:auto;
+	margin-left:auto;
+	top:7%;
+	width:35%;
+	background-color:#FFFFFF;
+	padding:10px;
+	border-radius: 10px;
+	box-shadow: 0.5px 0.5px #000;
+	opacity:0.95;
+	padding-top:0;
+}
+
+.login_header
+{
+	font-family:'arial',sans-serif;
+	width:100%;
+	height:160px;
+	background-color:#FFFFFF;
+	color:#CD0000;
+	text-align:center;
+	margin-bottom:10px;
+
+}
+
+.login_header h1
+{ 
+	font-family:'futuraBoldItalic',sans-serif;
+	margin-top:0;
+	margin-bottom:0;
+	color:#CD0000;
+	text-shadow:#000 0.5px 0.5px 0px;
+	font-size:250%;
+}
+
+.login_header img
+{ 
+	max-height:80%;
+	margin:auto;
+}
+
+.return_site
+{
+	margin-top:2%;
+	color:#CCCCCC;
+}
+
+input[type="submit"]
+{
+	font-family:'arial',sans-serif;
+	background-color:#CD0000;
+	border: 1px solid #FFFFFF;
+	border-radius: 0.75rem;
+	margin: 5px 0 10px 0;
+	padding: 5px 15px 5px 15px;
+	color:#FFFFFF;
+	font-size:100%;
+	width:120px;
+}
+
+input[type="submit"]:hover
+{
+	border-color:#CD0000;
+}
+
+input[type="text"], input[type="email"], input[type="password"]
+{
+	border: 1px solid #CCCCCC;
+	margin-top:5px;
+	width:60%;
+	min-height:35px;
+	margin-bottom:10px;
+	border-radius:9px;
+	padding-left:5px;
+}
+
+input[type="text"]:hover, input[type="email"]:hover, input[type="password"]:hover
+{
+	border-color:#CD0000;
+
+}
+
+#second
+{
+	display:none;
+}
+
+.selection
+{
+	font-family: 'arial';
+	color:#CD0000;
+	background-color:#FFFFFF;
+	box-shadow: 0.5px 0.5px #CCCCCC;
+	padding:10px;
+	margin:5px auto;
+	border-radius:20px;
+	 border-style:solid;
+    border-radius:20px;
+    border-color: #CD0000;
+	font-size:16px;
+	min-width:40%;
+	min-height:5%;
+}
+
+.selection:hover
+{
+	text-decoration:underline;
+
+}
+
+.previous
+{
+	position:absolute;
+	font-family: 'arial';
+	color:#CCCCCC;
+	background-color:#FFFFFF;
+	padding:10px;
+	border:none;
+	font-size:24px;
+}
+
+.previous:hover
+{
+	color:#CD0000;
+
+}
+
+#security_field
+{
+	background:#ECECEC;
+}
+
+.form_alert
+{
+	font-family: 'arial';
+	background-color: yellow;
+    position: relative;
+    padding: 5px;
+    text-align: center;
+}

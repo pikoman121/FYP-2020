@@ -1,0 +1,9 @@
+Clarity of speaking (Could you hear the speaker properly or clearly?)^n1
+How would you rate the audio-visuals?^n2
+Clarity of language (Could you understand everything [terminology etc.] said?)^n3
+What about body language? (Eye contact, speaking to everyone and not just to one or two individuals.)^n4
+What about the pace?(Speed of delivery)^n5
+Was the structure and procedure right?^n6
+How about answering questions at the end-how did that go?^n7
+Beyond any particular aspects,how would you rate the presentation overall?^n8
+If there was one particular good or not so good observation you wish to make about the presentation that is not covered in the above questions,put the details in this box.^t1

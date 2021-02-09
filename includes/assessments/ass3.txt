@@ -1,0 +1,9 @@
+Speaker delivered the requested materials on time.^n1
+Speaker was adequately nourished and hydrated.^n2
+Can you describe the speaker's dress sense?^t1
+Audience was entertained by the speaker.^t2
+Speaker's stutter was pleasant and not bothersome at all.^n3
+Speaker's eyes crossed to address all audience members.^n4
+Speaker replied to emails in a timely fashion.^n5
+Any other specific comments about the speakers ability to entertain the audience with non-truths?^t3
+ 

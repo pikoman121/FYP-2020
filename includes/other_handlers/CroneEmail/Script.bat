@@ -1,0 +1,1 @@
+"C:\xampp\php\php.exe" -f "C:\xampp\htdocs\present_app\includes\other_handlers\cron_job.php"
